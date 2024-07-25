@@ -241,6 +241,5 @@ footer {
 @media (max-width: 1022px) {
     .grid-item {
         flex-basis: 100%;
-        margin: 0px;
     }
    }
